@@ -1,0 +1,10 @@
+THe REPORT DATA excel file is located in this folder:
+
+OneDrive - NHS\Documents - MH UEC Team 1\15.UDAL\UDAL Extracts\010. REPORT DATA
+
+THe two SQL file to create the extracts that form these data run of the MHUEC SQL SERVER DATA WAREHOUSE(details below:
+
+
+Mental Health 
+Server: udalsqlmartprod.database.windows.net
+Database: udal-sql-mart-mentalhealth
